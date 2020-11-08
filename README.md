@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
+![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
+
 <!--
 **Rubix982/Rubix982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
