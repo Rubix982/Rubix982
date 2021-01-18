@@ -1,21 +1,29 @@
 <a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
 
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/">Saif </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-
-<hr>
-
-<h2 align="left">🌐 Connect</h2>
+<h2 align="left">Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/rubix982"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## Technical Skills & Expertise
+Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
 
-- *Web Dev*: MERN Stack, Flask, Django, ASP.NET Core, FastAPI
-- Basics dealt wtih Data Science and Data Engineering, yet to make any meaningful projects. :/ 
-- Pretty comfortable with writing content
+I have a curious drive into Data Engineering and Data Science, with a specialization in DL and the Tensorflow courses. But being honest, I haven't yet gotten the time to dive into projects for Data Science. I want to approach Data Engineering heavily, and that's my goal for this year, building projects for this thing.
+
+Other than that, I generally love talking about Software Engineering in general, on an architectural, infrastructure and community level, and really looking for opportunities at the moment to grow myself by participating in events like MLH.
+
+Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
+
+You can find me on 
+- My personal blog, https://dev-hearted.software/
+- LinkedIn: https://www.linkedin.com/in/saif-ul-islam-93786b187/
+- Github: https://github.com/rubix982
+- StackOverFlow: https://stackoverflow.com/users/10576072/saif-ul-islam
+
+Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
+
+Thank you, and cheers!
 
 ## ⚙️ Tools & Technologies Used
 
