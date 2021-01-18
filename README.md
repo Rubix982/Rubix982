@@ -1,6 +1,6 @@
 <a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
 
-<h2 align="left">Connect</h2>
+<h1 align="left">About</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,6 +14,8 @@ I have a curious drive into Data Engineering and Data Science, with a specializa
 Other than that, I generally love talking about Software Engineering in general, on an architectural, infrastructure and community level, and really looking for opportunities at the moment to grow myself by participating in events like MLH.
 
 Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
+
+<h1 align="left">What I'm Listening To</h1>
 
 I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
 
@@ -36,6 +38,8 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 <img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
 </a>
 
+<h1 align="left">Personal Links</h1>
+
 You can find me on 
 - My personal blog, https://dev-hearted.software/
 - LinkedIn: https://www.linkedin.com/in/saif-ul-islam-93786b187/
@@ -48,7 +52,7 @@ Please let me know if there is something you like to collab with me on, would lo
 
 Thank you, and cheers!
 
-## ⚙️ Tools & Technologies Used
+## Some Techy Stuff
 
 <p align="left">
  <a href="#">
@@ -86,6 +90,8 @@ Thank you, and cheers!
 <img alt="Django" src="https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=django&color=092E20"/>
  </a>
 </p>
+
+<h1 align="left">Just some statistics</h1>
 
 ![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
 ![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
