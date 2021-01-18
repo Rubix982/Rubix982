@@ -15,6 +15,12 @@ Other than that, I generally love talking about Software Engineering in general,
 
 Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
 
+<h1 align='left'>Favorite Quote At The Moment?</h1>
+
+> If you know the system well enough, you can do things 
+> that aren't supposed to be possible
+> - Linus Torvalds.
+
 <h1 align="left">What I'm Listening To</h1>
 
 I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
