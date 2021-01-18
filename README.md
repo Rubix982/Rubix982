@@ -1,12 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
 
-
-![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
-![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
-
-<a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/">Saif </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 <hr>
 
@@ -49,3 +43,7 @@
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
  </a>
 </p>
+
+![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
+![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
+
