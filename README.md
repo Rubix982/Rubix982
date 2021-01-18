@@ -15,11 +15,34 @@ Other than that, I generally love talking about Software Engineering in general,
 
 Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
 
+I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
+
+### MLOps
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
+<img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a>
+
+### Software Daily
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
+<img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
+</a>
+
+### Hussein Nasser
+<a href="https://www.youtube.com/user/GISIGeometry">
+<img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
+</a>
+
+### Healthy Sofware Engineering
+<a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ">
+<img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
+</a>
+
 You can find me on 
 - My personal blog, https://dev-hearted.software/
 - LinkedIn: https://www.linkedin.com/in/saif-ul-islam-93786b187/
 - Github: https://github.com/rubix982
 - StackOverFlow: https://stackoverflow.com/users/10576072/saif-ul-islam
+- Coursera, https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd
+- Kaggle, https://www.kaggle.com/rubix9821, I'm not very active, but I do come back and read the forums from time to time. Maybe more time for this in the future someday.
 
 Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
 
