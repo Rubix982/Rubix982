@@ -43,12 +43,24 @@ Thank you, and cheers!
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/Nodejs-Nodejs?style=for-the-badge&logo=node.js&color=303030"/>
+<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>   
+<img alt='FastAPI' src="https://img.shields.io/badge/FastAPI-FastAPI?style=for-the-badge&logo=fastapi&color=18191a"/>
+<img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
+<img alt='Heroku' src="https://img.shields.io/badge/Heroku-Heroku?style=for-the-badge&logo=heroku&color=430098"/>
+<img alt='CUDA' src="https://img.shields.io/badge/CUDA-CUDA?style=for-the-badge&logo=NVIDIA&color=1A1918"/>
+<img alt='ASP.NET' src="https://img.shields.io/badge/ASPNET-ASPNET?style=for-the-badge&logo=.net&color=5C2D91"/>
+<img alt='Microsoft Azure' src="https://img.shields.io/badge/Microsoft%20Azure-Microsoft%20Azure?style=for-the-badge&logo=microsoft%20azure&color=303030"/>
+<img alt='Google Cloud' src="https://img.shields.io/badge/Google%20Cloud-Google%20Cloud?style=for-the-badge&logo=google%20cloud&color=242526"/>
+<img alt='Docker' src="https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&color=18191a"/>
+<img alt='Next.JS' src="https://img.shields.io/badge/NextJS-NextJS?style=for-the-badge&logo=next.js&color=000000"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=django&color=092E20"/>
  </a>
 </p>
 
