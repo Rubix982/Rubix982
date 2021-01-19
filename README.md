@@ -94,6 +94,10 @@ Thank you, and cheers!
 <img alt='Docker' src="https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&color=18191a"/>
 <img alt='Next.JS' src="https://img.shields.io/badge/NextJS-NextJS?style=for-the-badge&logo=next.js&color=000000"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=django&color=092E20"/>
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-Neo4j?style=for-the-badge&logo=neo4j&color=63b443"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-Redis?style=for-the-badge&logo=redis&color=1a191b"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Kubernetes?style=for-the-badge&logo=kubernetes&logoColor=fff&color=326CE5"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/>
  </a>
 </p>
 
