@@ -52,6 +52,7 @@ You can find me on
 - Github: https://github.com/rubix982
 - StackOverFlow: https://stackoverflow.com/users/10576072/saif-ul-islam
 - Coursera, https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd
+- Devpost, https://devpost.com/Rubix982
 - Kaggle, https://www.kaggle.com/rubix9821, I'm not very active, but I do come back and read the forums from time to time. Maybe more time for this in the future someday.
 
 Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
