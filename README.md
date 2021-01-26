@@ -55,6 +55,8 @@ You can find me on
 - Devpost, https://devpost.com/Rubix982
 - Kaggle, https://www.kaggle.com/rubix9821, I'm not very active, but I do come back and read the forums from time to time. Maybe more time for this in the future someday.
 
+My current resume is here, https://drive.google.com/file/d/1BEdkgh27okXT1aXRuKzJndZtDLWf4K9l/view?usp=sharing.
+
 Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
 
 Thank you, and cheers!
