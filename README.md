@@ -15,11 +15,18 @@ Other than that, I generally love talking about Software Engineering in general,
 
 Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
 
+Right now working on,
+
+- [ETS](https://github.com/TashikMoin23/ETS), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
+- `Himalaya`, a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0.
+- [Terrabuzz](https://github.com/rubix982/terrabuzz), still working on this project to develop more features.
+
 <h1 align='left'>Favorite Quote At The Moment?</h1>
 
-> If you know the system well enough, you can do things 
-> that aren't supposed to be possible
-> - Linus Torvalds.
+> When life gets you down do you wanna know 
+> what you've gotta do? Just keep swimming. 
+> Just keep swimming. Just keep swimming, swimming..
+> - Dory, Finding Nemo
 
 <h1 align="left">What I'm Listening To</h1>
 
