@@ -108,6 +108,12 @@ Thank you, and cheers!
 <img alt="Redis" src="https://img.shields.io/badge/Redis-Redis?style=for-the-badge&logo=redis&color=1a191b"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Kubernetes?style=for-the-badge&logo=kubernetes&logoColor=fff&color=326CE5"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-Redux?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-TypeScript?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6"/>
+<img alt="Sass" src="https://img.shields.io/badge/Sass-Sass?style=for-the-badge&logo=sass&logoColor=fff&color=CC6699"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=sass&logoColor=fff&color=F24E1E"/>
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-ESLint?style=for-the-badge&logo=eslint&logoColor=fff&color=4B32C3"/>   
+<img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-Azure%20Pipelines?style=for-the-badge&logo=Azure%20Pipelines&logoColor=fff&color=2560E0"/>   
  </a>
 </p>
 
