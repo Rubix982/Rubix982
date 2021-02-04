@@ -28,29 +28,6 @@ Right now working on,
 > Just keep swimming. Just keep swimming, swimming..
 > - Dory, Finding Nemo
 
-<h1 align="left">What I'm Listening To</h1>
-
-I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
-
-### MLOps
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
-<img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a>
-
-### Software Daily
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
-<img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
-</a>
-
-### Hussein Nasser
-<a href="https://www.youtube.com/user/GISIGeometry">
-<img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
-</a>
-
-### Healthy Sofware Engineering
-<a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ">
-<img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
-</a>
-
 <h1 align="left">Personal Links</h1>
 
 You can find me on 
@@ -116,6 +93,30 @@ Thank you, and cheers!
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-Azure%20Pipelines?style=for-the-badge&logo=Azure%20Pipelines&logoColor=fff&color=2560E0"/>   
  </a>
 </p>
+
+
+<h1 align="left">What I'm Listening To</h1>
+
+I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
+
+### MLOps
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
+<img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a>
+
+### Software Daily
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
+<img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
+</a>
+
+### Hussein Nasser
+<a href="https://www.youtube.com/user/GISIGeometry">
+<img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
+</a>
+
+### Healthy Sofware Engineering
+<a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ">
+<img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
+</a>
 
 <h1 align="left">Just some statistics</h1>
 
