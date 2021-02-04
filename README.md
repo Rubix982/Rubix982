@@ -18,7 +18,7 @@ Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/te
 Right now working on,
 
 - [ETS](https://github.com/TashikMoin23/ETS), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
-- `Himalaya`, a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0.
+- [Himalaya](https://ets-beryl.vercel.app/), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0.
 - [Terrabuzz](https://github.com/rubix982/terrabuzz), still working on this project to develop more features.
 
 <h1 align='left'>Favorite Quote At The Moment?</h1>
