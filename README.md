@@ -91,6 +91,7 @@ Thank you, and cheers!
 <img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=figma&logoColor=fff&color=F24E1E"/>
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-ESLint?style=for-the-badge&logo=eslint&logoColor=fff&color=4B32C3"/>   
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-Azure%20Pipelines?style=for-the-badge&logo=Azure%20Pipelines&logoColor=fff&color=2560E0"/>   
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-Ansible?style=for-the-badge&logo=ansible&logoColor=fff&color=EE0000"/>      
  </a>
 </p>
 
