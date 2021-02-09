@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/rubix982"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a>  
 </p>
 
 Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
