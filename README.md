@@ -18,9 +18,9 @@ Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/te
 
 Right now working on,
 
-- [ETS](https://github.com/TashikMoin23/ETS), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
-- [Himalaya](https://ets-beryl.vercel.app/), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0.
-- [Terrabuzz](https://github.com/rubix982/terrabuzz), still working on this project to develop more features.
+- [ETS](https://ets-beryl.vercel.app/), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
+- [Himalaya](https://github.com/Rubix982/ASP.NET-ReactJS-Template), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0. The link attached is a template attempted first for the Himalay project, but extended for general use cases for the Open Source Community
+- [Terrabuzz](https://github.com/rubix982/terrabuzz), a social media web application that emphasizes on building relations with people, and helping people figure out similar groups of communities.
 
 <h1 align='left'>Favorite Quote At The Moment?</h1>
 
