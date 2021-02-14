@@ -1,12 +1,26 @@
 <a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
 
 <h1 align="left">About</h1>
+
+<h2 align="left">Personal Links</h2>
+
+You can find me on,
+
 <p align="left">
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/rubix982"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a>  
+  <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a>
+  <a href="https://www.quora.com/profile/Saif-Ul-Islam-67/"><img title="Quora" src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=fff"/></a>
+  <a href="https://stackoverflow.com/users/10576072/saif-ul-islam"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a>
+  <a href="https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
+  <a href="https://devpost.com/Rubix982"><img title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=fff"/></a>
+  <a href="https://www.kaggle.com/rubix9821"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>  
 </p>
+
+I'm not very active on Kaggle, but I hope I can come back and compete seriously some day in the future
+
+<h2 align="left">Biography</h2>
 
 Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
 
@@ -22,29 +36,18 @@ Right now working on,
 - [Himalaya](https://github.com/Rubix982/ASP.NET-ReactJS-Template), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0. The link attached is a template attempted first for the Himalay project, but extended for general use cases for the Open Source Community
 - [Terrabuzz](https://github.com/rubix982/terrabuzz), a social media web application that emphasizes on building relations with people, and helping people figure out similar groups of communities.
 
+My current resume is [here](https://drive.google.com/file/d/1BEdkgh27okXT1aXRuKzJndZtDLWf4K9l/view?usp=sharing).
+
+Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
+
+Thank you, and cheers!
+
 <h1 align='left'>Favorite Quote At The Moment?</h1>
 
 > When life gets you down do you wanna know 
 > what you've gotta do? Just keep swimming. 
 > Just keep swimming. Just keep swimming, swimming..
 > - Dory, Finding Nemo
-
-<h1 align="left">Personal Links</h1>
-
-You can find me on 
-- My personal blog, https://dev-hearted.software/
-- LinkedIn: https://www.linkedin.com/in/saif-ul-islam-93786b187/
-- Github: https://github.com/rubix982
-- StackOverFlow: https://stackoverflow.com/users/10576072/saif-ul-islam
-- Coursera, https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd
-- Devpost, https://devpost.com/Rubix982
-- Kaggle, https://www.kaggle.com/rubix9821, I'm not very active, but I do come back and read the forums from time to time. Maybe more time for this in the future someday.
-
-My current resume is here, https://drive.google.com/file/d/1BEdkgh27okXT1aXRuKzJndZtDLWf4K9l/view?usp=sharing.
-
-Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
-
-Thank you, and cheers!
 
 ## Some Techy Stuff
 
