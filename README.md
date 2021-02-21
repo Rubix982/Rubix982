@@ -133,3 +133,6 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
+</div>
