@@ -99,6 +99,8 @@ Thank you, and cheers!
 <img alt="Drupal" src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=fff&color=0678BE"/>
 <img alt="Powershell" src="https://img.shields.io/badge/Powershell-Powershell?style=for-the-badge&logo=powershell&logoColor=fff&color=5391FE"/>
 <img alt="CMake" src="https://img.shields.io/badge/CMake-CMake?style=for-the-badge&logo=cmake&logoColor=fff&color=064F8C"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff&color=007396"/>
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=fff&color=231F20"/>
  </a>
 </p>
 
