@@ -104,7 +104,6 @@ Thank you, and cheers!
  </a>
 </p>
 
-
 <h1 align="left">What I'm Listening To</h1>
 
 I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
@@ -126,6 +125,13 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 ### Healthy Sofware Engineering
 <a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ">
 <img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
+</a>
+
+<h1 align="left">What I'm Reading</h1>
+
+### Fundamentals of Software Architecture: An Engineering Approach 1st Edition
+<a href="https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451">
+<img alt="Fundamentals Of Software Architecture" style="width:50%;height:50%;" src="https://images-na.ssl-images-amazon.com/images/I/51-RoANBXoL._SX379_BO1,204,203,200_.jpg"/>
 </a>
 
 <h1 align="left">Just some statistics</h1>
