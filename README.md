@@ -101,6 +101,8 @@ Thank you, and cheers!
 <img alt="CMake" src="https://img.shields.io/badge/CMake-CMake?style=for-the-badge&logo=cmake&logoColor=fff&color=064F8C"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff&color=007396"/>
 <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=fff&color=231F20"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff&color=000000"/>
+<img alt="Travis CI" src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travis%20ci&logoColor=fff&color=3EAAAF"/>
  </a>
 </p>
 
