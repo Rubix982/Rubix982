@@ -66,6 +66,7 @@ Thank you, and cheers!
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="GNU Bash" src="https://img.shields.io/badge/gnu%20bash-4EAA25?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>   
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -103,6 +104,7 @@ Thank you, and cheers!
 <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=fff&color=231F20"/>
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=fff&color=000000"/>
 <img alt="Travis CI" src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=travis%20ci&logoColor=fff&color=3EAAAF"/>
+<img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>   
  </a>
 </p>
 
