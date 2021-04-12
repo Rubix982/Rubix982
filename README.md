@@ -20,6 +20,8 @@ You can find me on,
 
 I'm not very active on Kaggle, but I hope I can come back and compete seriously some day in the future
 
+If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1IgkINGINchreIYT-BthW4ReuviERR2F4/view)
+
 <h2 align="left">Biography</h2>
 
 Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
@@ -35,8 +37,6 @@ Right now working on,
 - [ETS](https://ets-beryl.vercel.app/), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
 - [Himalaya](https://github.com/Rubix982/ASP.NET-ReactJS-Template), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0. The link attached is a template attempted first for the Himalay project, but extended for general use cases for the Open Source Community
 - [Terrabuzz](https://github.com/rubix982/terrabuzz), a social media web application that emphasizes on building relations with people, and helping people figure out similar groups of communities.
-
-My current resume is [here](https://drive.google.com/file/d/1BEdkgh27okXT1aXRuKzJndZtDLWf4K9l/view?usp=sharing).
 
 Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
 
