@@ -20,7 +20,7 @@ You can find me on,
 
 I'm not very active on Kaggle, but I hope I can come back and compete seriously some day in the future
 
-If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1FYa5RJnG3ZGMme8QXkgulcfx7Ue_s0wM/view?usp=sharing)
+If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
 
 <h2 align="left">Biography</h2>
 
