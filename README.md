@@ -135,9 +135,9 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 
 <h1 align="left">What I'm Reading</h1>
 
-### Fundamentals of Software Architecture: An Engineering Approach 1st Edition
+### Computer Networking: A Top-Down Approach 7th Edition
 <a href="https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451">
-<img alt="Fundamentals Of Software Architecture" style="width:50%;height:50%;" src="https://images-na.ssl-images-amazon.com/images/I/51-RoANBXoL._SX379_BO1,204,203,200_.jpg"/>
+<img alt="Fundamentals Of Software Architecture" style="width:50%;height:50%;" src="https://images-na.ssl-images-amazon.com/images/I/41PRw50Qa-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"/>
 </a>
 
 <h1 align="left">Just some statistics</h1>
@@ -146,6 +146,10 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 ![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align='center'>
+  <img src='https://user-images.githubusercontent.com/41635766/118509044-28352800-b749-11eb-8b8c-fdb1e5c4ab2d.png' alt='personal profile' />
+</div>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
