@@ -142,8 +142,8 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 
 <h1 align="left">Just some statistics</h1>
 
-![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
-![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact)
+<!-- ![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
+![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact) -->
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
