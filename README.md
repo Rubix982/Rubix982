@@ -20,12 +20,21 @@ You can find me on,
   <a href="https://developers.google.com/profile/u/107055126661372803507#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>  
   <a href="https://gdg.community.dev/u/mc88mk/#/about"><img title="Google Developer Groups" src="https://img.shields.io/badge/Google%20Developer%20Groups-023e8a?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://opensoft.hashnode.dev/"><img title="OpenSoft" src="https://img.shields.io/badge/OpenSoft-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+  
 </p>
 
 I'm not very active on Kaggle, but I hope I can come back and compete seriously some day in the future
 
-If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
+If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)..
 
+If you would like to schedule a google meet with me, either related to a (A) Project or collaboration idea, or (B) schedule an interview with me, you can use the following option,
+
+<p>
+  <a href="https://calendly.com/rubix982"><img title="Calendly" src="https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=google&calendar&logoColor=white"/></a>
+</p>
+
+Please note if I'm not able to be on time for that specific slot, I may or may not let you know. Thanks.
+ 
 <h2 align="left">Biography</h2>
 
 Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
