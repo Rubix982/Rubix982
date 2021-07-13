@@ -23,40 +23,31 @@ You can find me on,
   
 </p>
 
-- [Resume](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
+Check out my resume [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
 
-<p>
-  <a href="https://calendly.com/rubix982"><img title="Calendly" src="https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=google&calendar&logoColor=white"/></a>
-</p>
+You can book a calendly for a 1-to-1 with me [here](https://calendly.com/rubix982) as well. Please note if I'm not able to be on time for that specific slot, I will try my best to let you know. Thank you.
 
-Please note if I'm not able to be on time for that specific slot, I will try my best to let you know. Thank you.
- 
 <h2 align="left">Biography</h2>
 
-Hi! I'm Saif, I'm a undergrad from FAST NUCES, Karachi, majoring in Computer Science. I'm generally very interested in Software Engineering, Open Source Technologies. My technical expertise lies with working in Web Development related projects, the MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. 
+Hi, I’m Saif!
 
-I have a curious drive into Data Engineering and Data Science, with a specialization in DL and the Tensorflow courses. But being honest, I haven't yet gotten the time to dive into projects for Data Science. I want to approach Data Engineering heavily, and that's my goal for this year, building projects for this thing.
+I’m currently from Pakistan, going into my final year at FAST NUCES, Karachi, majoring in Computer Science. My technical expertise currently lies with Data Science, Backend Engineering,Software Engineering, Open Source technologies, a little bit of Frontend design here and there. I've touched DevOps tools such as Docker, K8s, Docker Compose, Git, GitHub Actions, and Azure Pipelines. As of right now, I’m fixated on developing skills for Cloud/DevOps/Networking and System Administration. I would like to get deep into Site Reliability Engineering/Production Engineering, and maybe even pursue DevSecOps.
 
-Other than that, I generally love talking about Software Engineering in general, on an architectural, infrastructure and community level, and really looking for opportunities at the moment to grow myself by participating in events like MLH.
+I've worked with MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. See more tools down below. I also have specializations in Deep Learning from deeplearning.ai, and the Tensorflow Professional Practitioner certification under Laurence Moroney.
 
-Recently worked on a personal project, Terrabuzz, https://github.com/rubix982/terrabuzz, a full stack web application based on ReactJS, ExpressJS, Docker, Eslint, Vercel, CI/CD with Azure, and the databases mentioned above. I'm a maintainer and member for the SoftDevPK project, https://softdevpk.com/, a kind of a quick guide for new comers to see what they can do to get a dive into the CS / SE / IT field.
+My current plans in my free time for the coming Summer at the moment are to (hopefully),
 
-Right now working on,
+1. Get a research paper published
+2. Finish a Big Data, an Apache Spark and a course from Coursere
+3. Starting work for my Final Year Project
+4. Build as many projects as I possibly can relate to Computer Networking, Full Stack Applications, MLOps, DevOps, Cloud, and Data Engineering
+5. Read a few books I have in mind, and maybe write blogs about them!
 
-- [ETS](https://ets-beryl.vercel.app/), a cloud web application acting as a CMS with a ReactJS frontend, and a backend CMS in Drupal.
-- [Himalaya](https://github.com/Rubix982/ASP.NET-ReactJS-Template), a full stack project quite similar to an ecommerce application. Repository yet to be created. Has a decided frontend in ReacTJS + TypeScript, and a backend in ASP.NET Core 5.0. The link attached is a template attempted first for the Himalay project, but extended for general use cases for the Open Source Community
-- [Terrabuzz](https://github.com/rubix982/terrabuzz), a social media web application that emphasizes on building relations with people, and helping people figure out similar groups of communities.
+I'm currently an Open-Source Fellow at MLH, working as a developer on Mapillary, under Facebook.
 
-Please let me know if there is something you like to collab with me on, would love to interact and network with people here. 
+Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev - you can book a calendly as well.
 
 Thank you, and cheers!
-
-<h1 align='left'>Favorite Quote At The Moment?</h1>
-
-> When life gets you down do you wanna know 
-> what you've gotta do? Just keep swimming. 
-> Just keep swimming. Just keep swimming, swimming..
-> - Dory, Finding Nemo
 
 ## Some Techy Stuff
 
@@ -148,9 +139,6 @@ I mostly listen to podcasts related to MLOps, Software Engineering, and Solution
 </a>
 
 <h1 align="left">Just some statistics</h1>
-
-<!-- ![Saif's github Stats](https://github-readme-stats.vercel.app/api?username=Rubix982)
-![Saif's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubix982&hide_langs_below=1&layout=compact) -->
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
