@@ -23,17 +23,13 @@ You can find me on,
   
 </p>
 
-I'm not very active on Kaggle, but I hope I can come back and compete seriously some day in the future
-
-If you would like to see my current resume, you can see that [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)..
-
-If you would like to schedule a google meet with me, either related to a (A) Project or collaboration idea, or (B) schedule an interview with me, you can use the following option,
+- [Resume](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
 
 <p>
   <a href="https://calendly.com/rubix982"><img title="Calendly" src="https://img.shields.io/badge/Calendly-4285F4?style=for-the-badge&logo=google&calendar&logoColor=white"/></a>
 </p>
 
-Please note if I'm not able to be on time for that specific slot, I may or may not let you know. Thanks.
+Please note if I'm not able to be on time for that specific slot, I will try my best to let you know. Thank you.
  
 <h2 align="left">Biography</h2>
 
