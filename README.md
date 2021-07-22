@@ -9,16 +9,15 @@ You can find me on,
 <p align="left">
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/rubix982"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a>
-  <a href="https://www.quora.com/profile/Saif-Ul-Islam-67/"><img title="Quora" src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=fff"/></a>
+<!--   <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a> -->
+<!--   <a href="https://www.quora.com/profile/Saif-Ul-Islam-67/"><img title="Quora" src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=fff"/></a> -->
   <a href="https://stackoverflow.com/users/10576072/saif-ul-islam"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a>
   <a href="https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://devpost.com/Rubix982"><img title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/rubix9821"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
-  <a href="https://dribbble.com/Rubix982"><img title="Follow on Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<!--   <a href="https://dribbble.com/Rubix982"><img title="Follow on Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a> -->
   <a href="https://developers.google.com/profile/u/107055126661372803507#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>  
-  <a href="https://gdg.community.dev/u/mc88mk/#/about"><img title="Google Developer Groups" src="https://img.shields.io/badge/Google%20Developer%20Groups-023e8a?style=for-the-badge&logo=google&logoColor=white"/></a>
+<!--   <a href="https://gdg.community.dev/u/mc88mk/#/about"><img title="Google Developer Groups" src="https://img.shields.io/badge/Google%20Developer%20Groups-023e8a?style=for-the-badge&logo=google&logoColor=white"/></a> -->
   <a href="https://opensoft.hashnode.dev/"><img title="OpenSoft" src="https://img.shields.io/badge/OpenSoft-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
   
 </p>
@@ -49,7 +48,7 @@ Feel free to reach out if you want to talk about #bigdata, #opensource, #dataeng
 
 Thank you, and cheers!
 
-## Some Techy Stuff
+## Tech Stack
 
 <p align="left">
  <a href="#">
@@ -110,41 +109,19 @@ Thank you, and cheers!
 
 <h1 align="left">What I'm Listening To</h1>
 
-I mostly listen to podcasts related to MLOps, Software Engineering, and Solution Architect - Infrastructure Design. Some names are,
+| Podcast      | Link | Image |
+| ----------- | ----------- | ----------- |
+| MLOps      | [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW) | <img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a> |
+| Software Daily   | [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW) | <img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
+</a> |
+| Hussein Naser | [Link](https://www.youtube.com/user/GISIGeometry) | <img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
+</a> |
+| Healthy Sofware Engineering | [Link](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ) | <img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
+</a> |
 
-### MLOps
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
-<img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a>
-
-### Software Daily
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW">
-<img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
-</a>
-
-### Hussein Nasser
-<a href="https://www.youtube.com/user/GISIGeometry">
-<img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
-</a>
-
-### Healthy Sofware Engineering
-<a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ">
-<img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
-</a>
-
-<h1 align="left">What I'm Reading</h1>
-
-### Computer Networking: A Top-Down Approach 7th Edition
-<a href="https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451">
-<img alt="Fundamentals Of Software Architecture" style="width:50%;height:50%;" src="https://images-na.ssl-images-amazon.com/images/I/41PRw50Qa-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"/>
-</a>
-
-<h1 align="left">Just some statistics</h1>
+<h1 align="left">GitHub Statistics</h1>
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align='center'>
-  <img src='https://user-images.githubusercontent.com/41635766/118509044-28352800-b749-11eb-8b8c-fdb1e5c4ab2d.png' alt='personal profile' />
-</div>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
