@@ -22,9 +22,10 @@ You can find me on,
   
 </p>
 
-Check out my resume [here](https://drive.google.com/file/d/1Yl3ghc6-RM_1ZHA66YMFrQbyCocLjLYI/view?usp=sharing)
+Further,
 
-You can book a calendly for a 1-to-1 with me [here](https://calendly.com/rubix982) as well. Please note if I'm not able to be on time for that specific slot, I will try my best to let you know. Thank you.
+1. [Resume](https://drive.google.com/file/d/15zacGOmw7Jj2QAAtT46TaNt4hMN6dOx9/view)
+2. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
 
 <h2 align="left">Biography</h2>
 
