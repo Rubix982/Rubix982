@@ -58,8 +58,8 @@ Difficult answer. I'll split it into two parts,
 
 A list of things I want to do,
 
-- Exploring Amazon Web Services (AWS)
-- Build as many projects as I can
+- Exploring and learning Amazon Web Services (AWS), and [AWS-Amplify](https://aws.amazon.com/amplify/)
+- Build as many projects as I can with whatever time I have
 
 <h2 align="left">Talk To Me About</h2>
 
