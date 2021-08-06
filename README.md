@@ -15,9 +15,7 @@ You can find me on,
   <a href="https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://devpost.com/Rubix982"><img title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/rubix9821"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
-<!--   <a href="https://dribbble.com/Rubix982"><img title="Follow on Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a> -->
   <a href="https://developers.google.com/profile/u/107055126661372803507#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>  
-<!--   <a href="https://gdg.community.dev/u/mc88mk/#/about"><img title="Google Developer Groups" src="https://img.shields.io/badge/Google%20Developer%20Groups-023e8a?style=for-the-badge&logo=google&logoColor=white"/></a> -->
   <a href="https://opensoft.hashnode.dev/"><img title="OpenSoft" src="https://img.shields.io/badge/OpenSoft-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
   
 </p>
@@ -31,23 +29,50 @@ Further,
 
 Hi, I’m Saif!
 
-I’m currently from Pakistan, going into my final year at FAST NUCES, Karachi, majoring in Computer Science. My technical expertise currently lies with Data Science, Backend Engineering,Software Engineering, Open Source technologies, a little bit of Frontend design here and there. I've touched DevOps tools such as Docker, K8s, Docker Compose, Git, GitHub Actions, and Azure Pipelines. As of right now, I’m fixated on developing skills for Cloud/DevOps/Networking and System Administration. I would like to get deep into Site Reliability Engineering/Production Engineering, and maybe even pursue DevSecOps.
+I’m from Pakistan, in my final year at FAST NUCES, Karachi, majoring in Computer Science. Technically, I'm practicing Open Source Software Development, DevOps, Cloud, Computer Networking, Software Engineering, Full Stack Web Dev Engineering, Production Production & SRE, Database Administration, Technical Writing, Linux, and have touched briefly on Data Science, Frontend Design here and there.
 
-I've worked with MERN stack, Django, MySQL, Mongo, Neo4j, APIs such as the FB / Messenger API, Twilio API, learned a bit of the Cloud on GCP / Qwiklabs, learned about DevOps, CI/CD, TDD. See more tools down below. I also have specializations in Deep Learning from deeplearning.ai, and the Tensorflow Professional Practitioner certification under Laurence Moroney.
+Why so many domains? I wanted to understand each of all to a degree informing my decisions over what it takes to build a product from scratch.
 
-My current plans in my free time for the coming Summer at the moment are to (hopefully),
+My primary aim right is to target Cloud, DevOps, Backend Engineering, develop skills over Cloud/DevOps/Networking/System Administration. For the future, I'm aiming for Site Reliability Engineering/Production Engineering, Software Engineering, Full Stack Web Development, and wherever life is willing to take me.
 
-1. Get a research paper published
-2. Finish a Big Data, an Apache Spark and a course from Coursere
-3. Starting work for my Final Year Project
-4. Build as many projects as I possibly can relate to Computer Networking, Full Stack Applications, MLOps, DevOps, Cloud, and Data Engineering
-5. Read a few books I have in mind, and maybe write blogs about them!
+<!-- Tech Stack: Python, Javascript, Typescript, React, ExpressJS, MySQL, MongoDB, Redis, Git, GitHub, Bash, C#, Pandas, Numpy, Tensorflow, Scikit Learn, HTML, CSS, Docker, Docker Compose, Kubernetes, Azure, GCP, Material UI, Eslint, Redux, Neo4j, Django, Flask, FASTAPI, ASP.NET Core 5.0, NextJS, Nginx, C, Bootstrap, C++, Jupyter, Kafka, Heroku, OracleSQL, Facebook/Messenger API, Twilio's API (Twiml, WhatsApp, SMS, MMS) -->
 
-I'm currently an Open-Source Fellow at MLH, working as a developer on Mapillary, under Facebook.
+<h2 align="left">What Am I Doing These Days</h2>
 
-Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev - you can book a calendly as well.
+Difficult answer. I'll split it into two parts,
 
-Thank you, and cheers!
+<h3 align="left">I'm Definitely Working On ...</h3>
+
+- Being an [Open Source Fellow @MLH](https://fellowship.mlh.io/)! Amazing experience for community folks
+- [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk) - a project under Facebook Reality Labs, to release a Python 3 library built on the Mapillary API v4 to facilitate retrieving and working with Mapillary data. This is for the GeoInformatics community as an Open Source resource for everyone out there who wishes to get easy access to [Mapillary's Gigantic Dataset](https://www.mapillary.com/app/). Expect a major release soon!
+- [Jina AI](https://github.com/jina-ai/jina), building a [Protein Search Prototype](https://github.com/georgeamccarthy/protein_search/pull/30) using Jina as a Neural Search Engine. I'm working currently on the Ops part by containerizing the application
+- [Meshery](https://layer5.io/) as a contributor. "The service mesh management plane" for deploying, configuring, operating, measuring, tuning a Microservice architecture. I'm just starting, but it's extremely exciting to be a part of it
+- [Y Combinator, Startup School '21](https://www.ycombinator.com/library), "Startup School" is a free online program for founders actively pursuing their own startup. It employs a 6 week program for batches where a team can work together weekly, have discussions and coordinating learning efforts and skill sharing relating heavily to startups!
+- [SIG Interoperability - Continuous Delivery Foundation](https://github.com/cdfoundation/sig-interoperability), as a community member over what efforts the Open Source community can make for tackling the interoperability problem across the CI/CD ecosystem of tools and technologies
+- Reading either ["Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) or ["Site Reliability Engineering: How Google Runs Production Systems"](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=pd_lpo_3?pd_rd_i=149192912X&psc=1) whenever I'm away from my laptop
+- My Final Year Project at FAST NUCES, it's private! Hopefully it's a hit
+- Being an open source contributor as much as I can, a promise to myself for sure
+- A research paper, slow progress, but I'm trying to get it out this Summer
+
+<h3 align="left">I'm Trying To Get To ...</h3>
+
+A list of things I want to do,
+
+- Exploring Amazon Web Services (AWS)
+- Build as many projects as I can
+
+<h2 align="left">Talk To Me About</h2>
+
+Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev, or about anything you like really - it doesn't have to be technical - feel free to ask me about my past experiences if that's helpful to you. 😄
+
+Thank you. See you soon!
+
+## Certifications
+
+| | | | |
+| ----------- | ----------- | ----------- | ----------- |
+| ![Deep Learning Specialization @ Deep Learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TXFEKNJQ7WVE/CERTIFICATE_LANDING_PAGE~TXFEKNJQ7WVE.jpeg) | ![DeepLearning.AI Tensorflow Developer](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~57GG4X4J48HY/CERTIFICATE_LANDING_PAGE~57GG4X4J48HY.jpeg) | ![The UNIX Workbench](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GY8QEKZHRAQF/CERTIFICATE_LANDING_PAGE~GY8QEKZHRAQF.jpeg) | ![Google Cloud Fundamentals: Core Infrastructure](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BKZKFUZPJDW5/CERTIFICATE_LANDING_PAGE~BKZKFUZPJDW5.jpeg)
+| ![Google Cloud Big Data And Machine Learning Fundamentals](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5PH3QTYTHEMM/CERTIFICATE_LANDING_PAGE~5PH3QTYTHEMM.jpeg) | ![Machine Learning @ Stanford Online](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6XQ5BSTL6MSG/CERTIFICATE_LANDING_PAGE~6XQ5BSTL6MSG.jpeg) | ![Continuous Delivery & DevOps - University Of Virginia, Darden School Of Business](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~836VWQQJ9F57/CERTIFICATE_LANDING_PAGE~836VWQQJ9F57.jpeg) | |
 
 ## Tech Stack
 
@@ -110,15 +135,9 @@ Thank you, and cheers!
 
 <h1 align="left">What I'm Listening To</h1>
 
-| Podcast      | Link | Image |
-| ----------- | ----------- | ----------- |
-| MLOps      | [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW) | <img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a> |
-| Software Daily   | [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW) | <img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/>
-</a> |
-| Hussein Naser | [Link](https://www.youtube.com/user/GISIGeometry) | <img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/>
-</a> |
-| Healthy Sofware Engineering | [Link](https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ) | <img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/>
-</a> |
+| | | | |
+| ----------- | ----------- | ----------- | ----------- |
+| <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW"><img alt="ML Ops" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr34pF8yatG2okafwNcNuTr4iTiLI_nsz_w-qNHvcCMGEixt3m"/></a> | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ?sa=X&ved=2ahUKEwjGpIWC3qTuAhUNwIUKHb35DiAQ9sEGegQIARAW"><img alt="Software Daily" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXZ_Kpfw4I5I0cWxroJ-U4S9xTqNY8JNxLjOKh4_LOJ9-3taA"/></a> | <a href="https://www.youtube.com/user/GISIGeometry"><img alt="Hussein Nasser" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsmIuMvyrwcNVQFeNpXi4zltwaFMAfi-7Wy1GptvcDhBbqOZiB"/></a> | <a href="https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ"><img alt="Healthy Software Engineering" src="https://yt3.ggpht.com/ytc/AAUvwniN_rrNoHmuHwTrXYOglDQoUiswrhISeUCDgnsuBA=s88-c-k-c0x00ffffff-no-rj"/></a> |
 
 <h1 align="left">GitHub Statistics</h1>
 
