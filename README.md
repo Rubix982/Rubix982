@@ -9,8 +9,6 @@ You can find me on,
 <p align="left">
   <a href="https://www.linkedin.com/in/saif-ul-islam-93786b187/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saifulilsma84210@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--   <a href="https://dev-hearted.software/"><img title="Dev Hearted - Blog" src="https://img.shields.io/badge/Ghost%20CMS%20Blog-100000?style=for-the-badge&logo=ghost&logoColor=738A94"/></a> -->
-<!--   <a href="https://www.quora.com/profile/Saif-Ul-Islam-67/"><img title="Quora" src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=fff"/></a> -->
   <a href="https://stackoverflow.com/users/10576072/saif-ul-islam"><img title="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack%20overflow&logoColor=fff"/></a>
   <a href="https://www.coursera.org/user/894a184e37e4c4bb50544fcdc21a4edd"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
   <a href="https://devpost.com/Rubix982"><img title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=fff"/></a>
@@ -23,7 +21,8 @@ You can find me on,
 Further,
 
 1. [Resume](https://drive.google.com/file/d/15zacGOmw7Jj2QAAtT46TaNt4hMN6dOx9/view)
-2. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
+2. [LinkedIn As PDF](https://drive.google.com/file/d/13TTKW-fIeT-xRituonQ1KN4Fhelam28k/view)
+3. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
 
 <h2 align="left">Biography</h2>
 
