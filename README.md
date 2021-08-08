@@ -63,9 +63,22 @@ A list of things I want to do,
 - Exploring and learning Amazon Web Services (AWS), and [AWS-Amplify](https://aws.amazon.com/amplify/)
 - Build as many projects as I can with whatever time I have
 
+## Roles Interested In
+
+I'm interested in roles about,
+
+- Cloud/Cloud Native
+- Developer Operations (DevOps)
+- Full Stack Web Dev Engineering
+- Big Data Analysis & Business Intelligence
+- Data Engineering
+- Production Engineering
+- Data Science
+
+
 <h2 align="left">Talk To Me About</h2>
 
-Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev, or about anything you like really - it doesn't have to be technical - feel free to ask me about my past experiences if that's helpful to you. 😄
+Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev, or about anything you like really - it doesn't have to be technical - feel free to ask me about my past experiences or ask me about feedback or advice, I'm always up for a conversation.
 
 Thank you. See you soon!
 
