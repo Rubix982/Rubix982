@@ -20,7 +20,7 @@ You can find me on,
 
 Further,
 
-1. [Resume](https://drive.google.com/file/d/15zacGOmw7Jj2QAAtT46TaNt4hMN6dOx9/view)
+1. [Resume](https://drive.google.com/file/d/15zacGOmw7Jj2QAAtT46TaNt4hMN6dOx9/view?usp=sharing)
 2. [LinkedIn As PDF](https://drive.google.com/file/d/13TTKW-fIeT-xRituonQ1KN4Fhelam28k/view)
 3. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
 
