@@ -1,8 +1,4 @@
-<a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
-
-<h1 align="left">About</h1>
-
-<h2 align="left">Personal Links</h2> 🔗
+<h1 align="left">Personal Links</h1>
 
 You can find me on,
 
@@ -24,7 +20,9 @@ Further,
 2. [LinkedIn As PDF](https://drive.google.com/file/d/13TTKW-fIeT-xRituonQ1KN4Fhelam28k/view)
 3. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
 
-<h2 align="left">Biography</h2> 📰
+<h1 align="left">Biography</h1>
+
+<a href="https://github.com/rubix982"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=rubix982&style=flat-square" width="125"/></a>
 
 Hi, I’m Saif!
 
@@ -36,11 +34,11 @@ My primary aim right is to target Cloud, DevOps, Backend Engineering, develop sk
 
 Other than technical stuff, I :heart: to work with teams, contributing to open source, recognizing business problems, evaluating requirements, being part of hackathons and group efforts for a project, learning from teammates and experiences. A project is probably nothing withou a community that uses and builds it.
 
-<h2 align="left">What Am I Doing These Days</h2> 👷
+<h1 align="left">What Am I Doing These Days</h1>
 
 Difficult answer. I'll split it into two parts,
 
-<h3 align="left">I'm Definitely Working On ...</h3>
+<h2 align="left">I'm Definitely Working On ...</h2>
 
 - Being an [Open Source Fellow @MLH](https://fellowship.mlh.io/)! Amazing experience for community folks
 - [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk) - a project under Facebook Reality Labs, to release a Python 3 library built on the Mapillary API v4 to facilitate retrieving and working with Mapillary data. This is for the GeoInformatics community as an Open Source resource for everyone out there who wishes to get easy access to [Mapillary's Gigantic Dataset](https://www.mapillary.com/app/). Expect a major release soon!
@@ -53,7 +51,7 @@ Difficult answer. I'll split it into two parts,
 - Being an open source contributor as much as I can, a promise to myself for sure
 - A research paper, slow progress, but I'm trying to get it out this Summer
 
-<h3 align="left">I'm Trying To Get To ...</h3>
+<h2 align="left">I'm Trying To Get To ...</h2>
 
 A list of things I want to do,
 
@@ -73,13 +71,13 @@ I'm interested in roles about,
 - Data Science 👨‍🔬
 
 
-<h2 align="left">Talk To Me About</h2>
+<h1 align="left">Talk To Me About</h1>
 
 Feel free to reach out if you want to talk about #bigdata, #opensource, #dataengineering, #softwaredevelopment, #webdev, or about anything you like really - it doesn't have to be technical - feel free to ask me about my past experiences or ask me about feedback or advice, I'm always up for a conversation.
 
 Thank you. See you soon!
 
-## Certifications
+# Certifications
 
 | | | | |
 | ----------- | ----------- | ----------- | ----------- |
@@ -89,7 +87,7 @@ Thank you. See you soon!
  | | |
 
 
-## Tech Stack
+# Tech Stack
 
 <p align="left">
  <a href="#">
