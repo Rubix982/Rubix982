@@ -2,7 +2,7 @@
 
 <h1 align="left">About</h1>
 
-<h2 align="left">Personal Links</h2>
+<h2 align="left">Personal Links</h2> 🔗
 
 You can find me on,
 
@@ -24,7 +24,7 @@ Further,
 2. [LinkedIn As PDF](https://drive.google.com/file/d/13TTKW-fIeT-xRituonQ1KN4Fhelam28k/view)
 3. [Calendly](https://calendly.com/rubix982). Please note if I'm not available for the specific slot, I will try my best to let you know. Thank you.
 
-<h2 align="left">Biography</h2>
+<h2 align="left">Biography</h2> 📰
 
 Hi, I’m Saif!
 
@@ -36,9 +36,7 @@ My primary aim right is to target Cloud, DevOps, Backend Engineering, develop sk
 
 Other than technical stuff, I :heart: to work with teams, contributing to open source, recognizing business problems, evaluating requirements, being part of hackathons and group efforts for a project, learning from teammates and experiences. A project is probably nothing withou a community that uses and builds it.
 
-<!-- Tech Stack: Python, Javascript, Typescript, React, ExpressJS, MySQL, MongoDB, Redis, Git, GitHub, Bash, C#, Pandas, Numpy, Tensorflow, Scikit Learn, HTML, CSS, Docker, Docker Compose, Kubernetes, Azure, GCP, Material UI, Eslint, Redux, Neo4j, Django, Flask, FASTAPI, ASP.NET Core 5.0, NextJS, Nginx, C, Bootstrap, C++, Jupyter, Kafka, Heroku, OracleSQL, Facebook/Messenger API, Twilio's API (Twiml, WhatsApp, SMS, MMS) -->
-
-<h2 align="left">What Am I Doing These Days</h2>
+<h2 align="left">What Am I Doing These Days</h2> 👷
 
 Difficult answer. I'll split it into two parts,
 
@@ -66,13 +64,13 @@ A list of things I want to do,
 
 I'm interested in roles about,
 
-- Cloud/Cloud Native
-- Developer Operations (DevOps)
-- Full Stack Web Dev Engineering
-- Big Data Analysis & Business Intelligence
-- Data Engineering
-- Production Engineering
-- Data Science
+- Cloud/Cloud Native ☁️
+- Developer Operations (DevOps) 🤖
+- Full Stack Web Dev Engineering 🕸️
+- Big Data Analysis & Business Intelligence 🧠
+- Data Engineering 🚒
+- Production Engineering 🦯
+- Data Science 👨‍🔬
 
 
 <h2 align="left">Talk To Me About</h2>
@@ -159,6 +157,11 @@ Thank you. See you soon!
 <h1 align="left">GitHub Statistics</h1>
 
 [![Rubix982's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rubix982&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+| | | |
+| ----------- | ----------- | ----------- |
+| <img src="https://wakatime.com/share/@Rubix982/fe37979d-dbbb-440c-bf15-b925bd83b53d.png" /> | <img src="https://wakatime.com/share/@Rubix982/130a5ce7-02bb-4aff-b0a1-1856f3fabd01.png" /> |
+| | | |
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
