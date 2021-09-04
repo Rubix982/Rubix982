@@ -10,7 +10,8 @@ You can find me on,
   <a href="https://devpost.com/Rubix982"><img title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=fff"/></a>
   <a href="https://www.kaggle.com/rubix9821"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
   <a href="https://developers.google.com/profile/u/107055126661372803507#account"><img title="Google Developer's Profile" src="https://img.shields.io/badge/Developers%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>  
-  <a href="https://opensoft.hashnode.dev/"><img title="OpenSoft" src="https://img.shields.io/badge/OpenSoft-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+  <a href="https://opensoft.hashnode.dev/"><img title="OpenSoft" src="https://img.shields.io/badge/OpenSoft-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://dev.to/rubix982"><img title="Dev.To" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   
 </p>
 
