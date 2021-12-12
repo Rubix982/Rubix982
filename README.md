@@ -1,4 +1,4 @@
-<h1 align="left">Personal Links</h1>
+<!-- <h1 align="left">Personal Links</h1>
 
 You can find me on,
 
@@ -165,3 +165,4 @@ Thank you. See you soon!
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rubix982&theme=flat&no-frame=true&margin-w=30" />
 </div>
+ -->
