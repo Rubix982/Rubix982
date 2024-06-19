@@ -1,3 +1,13 @@
+# 19th June, 2024
+
+A lot has changed since Summer 2021 when I last updated this README.md when it comes to my attitude, life, hobbies, growth, and career.
+
+I will one day update this again to be very simple -- because life should be simple.
+
+Till then, ciao.
+
+# Rubix982_V2021_July Below
+
 <h1 align="left">Personal Links</h1>
 
 You can find me on,
