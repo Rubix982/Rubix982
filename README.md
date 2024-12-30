@@ -6,6 +6,7 @@ I am currently working on and maintaining the below repositories,
 4. [ps - Rubix982](https://github.com/Rubix982/ps) - I realised I need to create valuable useful tooling in security to be a proper Cybersecurity specialist -- in that note, I wanted to start `ps`, a packet sniffer and network attack monitor one can deploy on their infrastructure that would be written in `Rust`
 5. [argo-apps - Rubix982](https://github.com/Rubix982/argo-apps) - A repository that will contain demos of using ArgoCD as an orchestrator to explore technical challenges for setting up a distributed system. Tags can include "workflows".
 6. [NetPulse - Rubix982](https://github.com/Rubix982/NetPulse) - A project to start, but internet speeds have been bothering me for many weeks now -- I wanted something that periodically got network results and stored them for personal view
+7. [VulnData - Rubix982](https://github.com/Rubix982/VulnData) - A project I will start focusing on more in the coming year (2025), but it is intended to be a large dataset of scraped data regarding vulnerabilities for future LLM training and assistance in analyzing vulnerabilities in code
 
 Some useful repositories I will maintain include,
 
