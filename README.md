@@ -5,6 +5,7 @@ I am currently working on and maintaining the below repositories,
 3. [ScrapChat - Rubix982](https://github.com/Rubix982/ScrapChat) - With a growing number of AI tools, the problem comes to organising all the content generated for anyone's quick viewing in one place. `ScrapChat` promises to parse the response by ChatGPT to output in an organised fashion
 4. [ps - Rubix982](https://github.com/Rubix982/ps) - I realised I need to create valuable useful tooling in security to be a proper Cybersecurity specialist -- in that note, I wanted to start `ps`, a packet sniffer and network attack monitor one can deploy on their infrastructure that would be written in `Rust`
 5. [argo-apps - Rubix982](https://github.com/Rubix982/argo-apps) - A repository that will contain demos of using ArgoCD as an orchestrator to explore technical challenges for setting up a distributed system. Tags can include "workflows".
+6. [NetPulse - Rubix982](https://github.com/Rubix982/NetPulse) - A project to start, but internet speeds have been bothering me for many weeks now -- I wanted something that periodically got network results and stored them for personal view
 
 Some useful repositories I will maintain include,
 
