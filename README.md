@@ -19,6 +19,10 @@ On a daily basis, I solve a [LeetCode](https://leetcode.com/) challenge and a CT
 1. [LeetCode - Rubix982](https://github.com/Rubix982/LeetCode)
 2. [SecChapter/picoCTF - Rubix982](https://github.com/Rubix982/SecChapter/tree/main/picoCTF)
 
+I may or not work on this depending on my workload in 2025, but its a venue to see how to combine AI and Cybersecurity,
+
+1. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
+
 <!---
 # Rubix982_V2021_July Below
 
