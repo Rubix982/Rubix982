@@ -23,6 +23,10 @@ I may or not work on this depending on my workload in 2025, but its a venue to s
 
 1. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
 
+## Ideas Section
+
+1. Cyberflow - A Go-based Temporal orchestrator that scans project dependencies and threat intel (like hashes, packages, IPs) using VirusTotal, OSV, and other APIs, caching results in PebbleDB for fast lookup and storing enriched data in DuckDB for structured analysis.
+
 <!---
 # Rubix982_V2021_July Below
 
