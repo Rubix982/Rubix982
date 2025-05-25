@@ -1,6 +1,14 @@
-# Security Projects List
+# About Me
 
-I am currently working on and maintaining the below repositories,
+I'm a systems and security engineer building long-term mastery in Cloud, Cybersecurity, and DevOps, with a focus on practical tooling, ethical AI, and infrastructure reliability.
+
+My repositories document my journey through real-world problem-solving — from packet sniffers and network monitors in Rust, to JSON diffing tools, AI prompt parsers, and DevSecOps orchestration with Go and Temporal.
+
+Currently exploring ethical AI tooling for artists and cultural storytelling, with a strong emphasis on privacy, consent, and usability.
+
+# Some Projects
+
+## Security
 
 1. [SecChapter - Rubix982](https://github.com/Rubix982/SecChapter) - In the middle of 2024, I decided that my long term goal and my life-long legacy would be my mastery in the Cloud, Cybersecurity, and DevOps area. This is a goal I believe will take the next decade of my life, and more. To maintain all of my progress and to look back on all I have or will accomplish, I maintain `SecChapter` that touches on many things that are related to Cybsecurity, Information Networking, and the Cloud
 2. [StructDiff - Rubix982](https://github.com/Rubix982/StructDiff) - Often, I have found existing JSON online tools to be tricky and split into many places -- StructDiff is what I started keeping in mind making it easy to see the structural differences between any two JSONs, but is not primarily limited by the idea
@@ -11,7 +19,7 @@ I am currently working on and maintaining the below repositories,
 7. [VulnData - Rubix982](https://github.com/Rubix982/VulnData) - A project I will start focusing on more in the coming year (2025), but it is intended to be a large dataset of scraped data regarding vulnerabilities for future LLM training and assistance in analyzing vulnerabilities in code
 8. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
 
-## Ideas/Misc Section
+## Ideas/Misc
 
 1. [Cyberflow](https://github.com/Rubix982/Cyberflow) - A Go-based Temporal orchestrator that scans project dependencies and threat intel (like hashes, packages, IPs) using VirusTotal, OSV, and other APIs, caching results in PebbleDB for fast lookup and storing enriched data in DuckDB for structured analysis.
 2. [Triage](https://github.com/Rubix982/triage) - Cross-platform Electron app for structured issue triage with React, Tailwind, D3.js, and DuckDB-WASM.
@@ -23,7 +31,7 @@ I am currently working on and maintaining the below repositories,
 8. [go-ssl](https://github.com/Rubix982/go-ssl) - A project that demonstrates testing for various ssl/tls issues with golang.
 9. [GoRoutinesAndConcurrency](https://github.com/Rubix982/GoRoutinesAndConcurrency) - A short project about Go routines and concurrency.
 
-## Personal Repositories
+## Personal
 
 1. [nvim](https://github.com/Rubix982/nvim) - Repository for my NVIM configurations
 2. [diary](https://github.com/Rubix982/diary) - A repository that contains things I've learned and knowledge I'll re-use.
