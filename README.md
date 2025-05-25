@@ -23,9 +23,24 @@ I may or not work on this depending on my workload in 2025, but its a venue to s
 
 1. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
 
-## Ideas Section
+## Ideas/Misc Section
 
-1. Cyberflow - A Go-based Temporal orchestrator that scans project dependencies and threat intel (like hashes, packages, IPs) using VirusTotal, OSV, and other APIs, caching results in PebbleDB for fast lookup and storing enriched data in DuckDB for structured analysis.
+1. [Cyberflow](https://github.com/Rubix982/Cyberflow) - A Go-based Temporal orchestrator that scans project dependencies and threat intel (like hashes, packages, IPs) using VirusTotal, OSV, and other APIs, caching results in PebbleDB for fast lookup and storing enriched data in DuckDB for structured analysis.
+2. [Triage](https://github.com/Rubix982/triage) - Cross-platform Electron app for structured issue triage with React, Tailwind, D3.js, and DuckDB-WASM.
+3. [Thoughts](https://github.com/Rubix982/thoughts) - A thoughts CLI utility for note-taking for devs.
+4. [EsMappingTests](https://github.com/Rubix982/es-mapping-tests) - Some ES mapping related tests.
+5. [SimpleMicroservice](https://github.com/Rubix982/SimpleMicroservice) - A simple microservice project.
+6. [network_agent](https://github.com/Rubix982/network_agent) - A network agent to monitor local network stats.
+7. [http-showcase](https://github.com/Rubix982/http-showcase) - A repository to showcase key features from HTTP 1.1, HTTP 2, and HTTP 3 to see their differences.
+8. [go-ssl](https://github.com/Rubix982/go-ssl) - A project that demonstrates testing for various ssl/tls issues with golang.
+9. [GoRoutinesAndConcurrency](https://github.com/Rubix982/GoRoutinesAndConcurrency) - A short project about Go routines and concurrency.
+
+## Personal Repositories
+
+1. [nvim](https://github.com/Rubix982/nvim) - Repository for my NVIM configurations
+2. [diary](https://github.com/Rubix982/diary) - A repository that contains things I've learned and knowledge I'll re-use.
+3. [CodeToolBox](https://github.com/Rubix982/CodeToolbox) - A collection of personal and versatile scripts.
+4. [LangLib](https://github.com/Rubix982/LangLib) - A concise repository showcasing language-specific libraries, methods, and data structures to solve problems efficiently. Perfect for Competitive Programming, Speed Programming, or learning built-in capabilities to map problems to solutions with ease.
 
 <!---
 # Rubix982_V2021_July Below
