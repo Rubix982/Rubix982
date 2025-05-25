@@ -1,3 +1,5 @@
+# Security Projects List
+
 I am currently working on and maintaining the below repositories,
 
 1. [SecChapter - Rubix982](https://github.com/Rubix982/SecChapter) - In the middle of 2024, I decided that my long term goal and my life-long legacy would be my mastery in the Cloud, Cybersecurity, and DevOps area. This is a goal I believe will take the next decade of my life, and more. To maintain all of my progress and to look back on all I have or will accomplish, I maintain `SecChapter` that touches on many things that are related to Cybsecurity, Information Networking, and the Cloud
@@ -7,21 +9,7 @@ I am currently working on and maintaining the below repositories,
 5. [argo-apps - Rubix982](https://github.com/Rubix982/argo-apps) - A repository that will contain demos of using ArgoCD as an orchestrator to explore technical challenges for setting up a distributed system. Tags can include "workflows".
 6. [NetPulse - Rubix982](https://github.com/Rubix982/NetPulse) - A project to start, but internet speeds have been bothering me for many weeks now -- I wanted something that periodically got network results and stored them for personal view
 7. [VulnData - Rubix982](https://github.com/Rubix982/VulnData) - A project I will start focusing on more in the coming year (2025), but it is intended to be a large dataset of scraped data regarding vulnerabilities for future LLM training and assistance in analyzing vulnerabilities in code
-
-Some useful repositories I will maintain include,
-
-1. [LangLib - Rubix982](https://github.com/Rubix982/LangLib) - I realised I did not really know the power of the libraries for the languages I use. I will maintain my findings in this repository, starting with `Python`
-2. [CodeToolbox - Rubix982](https://github.com/Rubix982/CodeToolbox) - I sometimes write one-off or semi-used scripts that could be helpful to someone or me in the future
-3. [kali-linux-ctf](https://github.com/Rubix982/kali-linux-ctf) - A repository for a vagrant file to quickly launch a Kali Linux instance for a CTF challenge installed with useful libraries
-
-On a daily basis, I solve a [LeetCode](https://leetcode.com/) challenge and a CTF challenge from [picoCTF](https://picoctf.org/). I maintain my solutions in the below repositories,
-
-1. [LeetCode - Rubix982](https://github.com/Rubix982/LeetCode)
-2. [SecChapter/picoCTF - Rubix982](https://github.com/Rubix982/SecChapter/tree/main/picoCTF)
-
-I may or not work on this depending on my workload in 2025, but its a venue to see how to combine AI and Cybersecurity,
-
-1. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
+8. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
 
 ## Ideas/Misc Section
 
@@ -41,6 +29,8 @@ I may or not work on this depending on my workload in 2025, but its a venue to s
 2. [diary](https://github.com/Rubix982/diary) - A repository that contains things I've learned and knowledge I'll re-use.
 3. [CodeToolBox](https://github.com/Rubix982/CodeToolbox) - A collection of personal and versatile scripts.
 4. [LangLib](https://github.com/Rubix982/LangLib) - A concise repository showcasing language-specific libraries, methods, and data structures to solve problems efficiently. Perfect for Competitive Programming, Speed Programming, or learning built-in capabilities to map problems to solutions with ease.
+5. [kali-linux-ctf](https://github.com/Rubix982/kali-linux-ctf) - A repository for a vagrant file to quickly launch a Kali Linux instance for a CTF challenge installed with useful libraries
+6. [LeetCode](https://github.com/Rubix982/LeetCode) - Here I publish my leetcode solutions.
 
 <!---
 # Rubix982_V2021_July Below
