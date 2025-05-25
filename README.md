@@ -31,6 +31,42 @@ Currently exploring ethical AI tooling for artists and cultural storytelling, wi
 8. [go-ssl](https://github.com/Rubix982/go-ssl) - A project that demonstrates testing for various ssl/tls issues with golang.
 9. [GoRoutinesAndConcurrency](https://github.com/Rubix982/GoRoutinesAndConcurrency) - A short project about Go routines and concurrency.
 
+## Brainstorming Only
+
+### Focus Feed
+
+#### Description
+
+Your personal, LLM-powered command center for daily knowledge and updates.
+
+FocusFeed is an experiment in building an MCP-style system that connects an LLM (like ChatGPT or Claude) to the sources you care about most — so you can wake up each day with a smart, structured, and summarized digest of everything that matters.
+
+#### What Problem Does It Solve?
+
+Every day we:
+
+- Scroll through endless tabs, emails, feeds, and forums
+- Waste time identifying what’s actually important
+- Skim more than we retain
+- Read passively instead of thinking critically
+
+FocusFeed solves this by letting an LLM:
+
+- Pull content from your personal info streams (Gmail, GitHub, arXiv, Reddit, RSS, etc.)
+- Summarize and prioritize based on what you actually care about
+- Explain and teach, adding definitions, context, and trends
+- Deliver a focused daily digest — in Markdown, email, or voice
+
+#### Features
+
+- ✅ Pull from Gmail, GitHub, Hacker News, Reddit, RSS, arXiv
+- 🧠 Summarization + commentary by GPT or Claude
+- 📚 Vocabulary and concept tagging
+- 📆 One-click daily feed generation
+- 🧩 Easy to extend with new MCP tools
+- 🖥️ Output: Markdown, TUI, HTML, or email
+- 🔒 100% local or self-hosted by design (no SaaS lock-in)
+
 ## Personal
 
 1. [nvim](https://github.com/Rubix982/nvim) - Repository for my NVIM configurations
