@@ -1,80 +1,108 @@
 # About Me
 
-I'm a systems and security engineer building long-term mastery in Cloud, Cybersecurity, and DevOps, with a focus on practical tooling, ethical AI, and infrastructure reliability.
+I'm a systems and security engineer building long-term mastery in **Cloud, Cybersecurity, and DevOps**, with a focus on practical tooling, ethical AI, and infrastructure reliability.
 
-My repositories document my journey through real-world problem-solving — from packet sniffers and network monitors in Rust, to JSON diffing tools, AI prompt parsers, and DevSecOps orchestration with Go and Temporal.
+My repositories document my journey through real-world problem-solving — from **packet sniffers and network monitors in Rust**, to **JSON diffing tools**, **AI prompt parsers**, and **DevSecOps orchestration with Go and Temporal**.
 
-Currently exploring ethical AI tooling for artists and cultural storytelling, with a strong emphasis on privacy, consent, and usability.
+Currently exploring ethical AI tooling for artists and cultural storytelling, with a strong emphasis on **privacy, consent, and usability**.
 
-# Some Projects
+---
 
-## Security
+## Table of Contents
 
-1. [SecChapter - Rubix982](https://github.com/Rubix982/SecChapter) - In the middle of 2024, I decided that my long term goal and my life-long legacy would be my mastery in the Cloud, Cybersecurity, and DevOps area. This is a goal I believe will take the next decade of my life, and more. To maintain all of my progress and to look back on all I have or will accomplish, I maintain `SecChapter` that touches on many things that are related to Cybsecurity, Information Networking, and the Cloud
-2. [StructDiff - Rubix982](https://github.com/Rubix982/StructDiff) - Often, I have found existing JSON online tools to be tricky and split into many places -- StructDiff is what I started keeping in mind making it easy to see the structural differences between any two JSONs, but is not primarily limited by the idea
-3. [ScrapChat - Rubix982](https://github.com/Rubix982/ScrapChat) - With a growing number of AI tools, the problem comes to organising all the content generated for anyone's quick viewing in one place. `ScrapChat` promises to parse the response by ChatGPT to output in an organised fashion
-4. [ps - Rubix982](https://github.com/Rubix982/ps) - I realised I need to create valuable useful tooling in security to be a proper Cybersecurity specialist -- in that note, I wanted to start `ps`, a packet sniffer and network attack monitor one can deploy on their infrastructure that would be written in `Rust`
-5. [argo-apps - Rubix982](https://github.com/Rubix982/argo-apps) - A repository that will contain demos of using ArgoCD as an orchestrator to explore technical challenges for setting up a distributed system. Tags can include "workflows".
-6. [NetPulse - Rubix982](https://github.com/Rubix982/NetPulse) - A project to start, but internet speeds have been bothering me for many weeks now -- I wanted something that periodically got network results and stored them for personal view
-7. [VulnData - Rubix982](https://github.com/Rubix982/VulnData) - A project I will start focusing on more in the coming year (2025), but it is intended to be a large dataset of scraped data regarding vulnerabilities for future LLM training and assistance in analyzing vulnerabilities in code
-8. [CyberScope - A Comprehensive Analysis Repository](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository/) - a repository to contain analysis of many datasets mentioned under a Kaggle dataset page
+- [About Me](#about-me)
+  - [Table of Contents](#table-of-contents)
+  - [Security Projects](#security-projects)
+  - [Ideas \& Misc Tools](#ideas--misc-tools)
+  - [Brainstorming Only](#brainstorming-only)
+    - [FocusFeed](#focusfeed)
+      - [Problems It Solves](#problems-it-solves)
+      - [Key Features](#key-features)
+  - [Personal \& Configs](#personal--configs)
 
-## Ideas/Misc
+---
 
-1. [Cyberflow](https://github.com/Rubix982/Cyberflow) - A Go-based Temporal orchestrator that scans project dependencies and threat intel (like hashes, packages, IPs) using VirusTotal, OSV, and other APIs, caching results in PebbleDB for fast lookup and storing enriched data in DuckDB for structured analysis.
-2. [Triage](https://github.com/Rubix982/triage) - Cross-platform Electron app for structured issue triage with React, Tailwind, D3.js, and DuckDB-WASM.
-3. [Thoughts](https://github.com/Rubix982/thoughts) - A thoughts CLI utility for note-taking for devs.
-4. [EsMappingTests](https://github.com/Rubix982/es-mapping-tests) - Some ES mapping related tests.
-5. [SimpleMicroservice](https://github.com/Rubix982/SimpleMicroservice) - A simple microservice project.
-6. [network_agent](https://github.com/Rubix982/network_agent) - A network agent to monitor local network stats.
-7. [http-showcase](https://github.com/Rubix982/http-showcase) - A repository to showcase key features from HTTP 1.1, HTTP 2, and HTTP 3 to see their differences.
-8. [go-ssl](https://github.com/Rubix982/go-ssl) - A project that demonstrates testing for various ssl/tls issues with golang.
-9. [GoRoutinesAndConcurrency](https://github.com/Rubix982/GoRoutinesAndConcurrency) - A short project about Go routines and concurrency.
+## Security Projects
+
+<details>
+<summary>Click to expand</summary>
+
+1. [`SecChapter`](https://github.com/Rubix982/SecChapter) — Long-term documentation of my journey in Cloud, Cybersecurity, and DevOps.
+2. [`StructDiff`](https://github.com/Rubix982/StructDiff) — JSON structural diffing tool for easier inspection of data changes.
+3. [`ScrapChat`](https://github.com/Rubix982/ScrapChat) — Tool to organize ChatGPT outputs into readable markdown sections.
+4. [`ps`](https://github.com/Rubix982/ps) — A packet sniffer and network monitor built in Rust.
+5. [`argo-apps`](https://github.com/Rubix982/argo-apps) — ArgoCD-based demos for distributed system orchestration.
+6. [`NetPulse`](https://github.com/Rubix982/NetPulse) — Periodic internet speed monitor for local analysis.
+7. [`VulnData`](https://github.com/Rubix982/VulnData) — Future dataset project for vulnerability scraping and LLM-assisted security insight.
+8. [`CyberScope`](https://github.com/Rubix982/CyberScope-A-Comprehensive-Analysis-Repository) — Security dataset analysis based on public Kaggle sources.
+
+</details>
+
+---
+
+## Ideas & Misc Tools
+
+<details>
+<summary>Click to expand</summary>
+
+1. [`Cyberflow`](https://github.com/Rubix982/Cyberflow) — Temporal + Go-based scanner for threat intel, enriched and cached locally.
+2. [`Triage`](https://github.com/Rubix982/triage) — Electron-based issue triage dashboard with D3 and DuckDB.
+3. [`Thoughts`](https://github.com/Rubix982/thoughts) — A CLI utility for fast personal note-taking.
+4. [`EsMappingTests`](https://github.com/Rubix982/es-mapping-tests) — Elasticsearch mapping experiments.
+5. [`SimpleMicroservice`](https://github.com/Rubix982/SimpleMicroservice) — Basic microservice starter template.
+6. [`network_agent`](https://github.com/Rubix982/network_agent) — Local network statistics monitoring agent.
+7. [`http-showcase`](https://github.com/Rubix982/http-showcase) — Demos of HTTP/1.1, HTTP/2, and HTTP/3 features.
+8. [`go-ssl`](https://github.com/Rubix982/go-ssl) — Go project to inspect SSL/TLS issues.
+9. [`GoRoutinesAndConcurrency`](https://github.com/Rubix982/GoRoutinesAndConcurrency) — Go concurrency exploration.
+
+</details>
+
+---
 
 ## Brainstorming Only
 
-### Focus Feed
+### FocusFeed
 
-#### Description
+<details>
+<summary>Click to expand</summary>
 
-Your personal, LLM-powered command center for daily knowledge and updates.
+**FocusFeed** is a personal, LLM-powered command center for daily knowledge and updates.
 
-FocusFeed is an experiment in building an MCP-style system that connects an LLM (like ChatGPT or Claude) to the sources you care about most — so you can wake up each day with a smart, structured, and summarized digest of everything that matters.
+An MCP-style system that connects LLMs (like ChatGPT or Claude) to your key information feeds — so you wake up to a structured, summarized digest of everything that matters.
 
-#### What Problem Does It Solve?
+#### Problems It Solves
 
-Every day we:
+- Overwhelming inboxes and news feeds
+- Time wasted identifying important content
+- Passive reading habits
+- Loss of context and connection between information sources
 
-- Scroll through endless tabs, emails, feeds, and forums
-- Waste time identifying what’s actually important
-- Skim more than we retain
-- Read passively instead of thinking critically
+#### Key Features
 
-FocusFeed solves this by letting an LLM:
+- 📬 Pulls from Gmail, GitHub, Hacker News, RSS, Reddit, and arXiv
+- 🧠 GPT/Claude summarization and context-based commentary
+- 📚 Highlights key terms and vocabulary
+- 📆 Generates digest in Markdown, email, or TUI
+- 🔌 Easily extensible with new tools and endpoints
+- 🛠️ 100% self-hosted / local by design — no vendor lock-in
 
-- Pull content from your personal info streams (Gmail, GitHub, arXiv, Reddit, RSS, etc.)
-- Summarize and prioritize based on what you actually care about
-- Explain and teach, adding definitions, context, and trends
-- Deliver a focused daily digest — in Markdown, email, or voice
+</details>
 
-#### Features
+---
 
-- ✅ Pull from Gmail, GitHub, Hacker News, Reddit, RSS, arXiv
-- 🧠 Summarization + commentary by GPT or Claude
-- 📚 Vocabulary and concept tagging
-- 📆 One-click daily feed generation
-- 🧩 Easy to extend with new MCP tools
-- 🖥️ Output: Markdown, TUI, HTML, or email
-- 🔒 100% local or self-hosted by design (no SaaS lock-in)
+## Personal & Configs
 
-## Personal
+<details>
+<summary>Click to expand</summary>
 
-1. [nvim](https://github.com/Rubix982/nvim) - Repository for my NVIM configurations
-2. [diary](https://github.com/Rubix982/diary) - A repository that contains things I've learned and knowledge I'll re-use.
-3. [CodeToolBox](https://github.com/Rubix982/CodeToolbox) - A collection of personal and versatile scripts.
-4. [LangLib](https://github.com/Rubix982/LangLib) - A concise repository showcasing language-specific libraries, methods, and data structures to solve problems efficiently. Perfect for Competitive Programming, Speed Programming, or learning built-in capabilities to map problems to solutions with ease.
-5. [kali-linux-ctf](https://github.com/Rubix982/kali-linux-ctf) - A repository for a vagrant file to quickly launch a Kali Linux instance for a CTF challenge installed with useful libraries
-6. [LeetCode](https://github.com/Rubix982/LeetCode) - Here I publish my leetcode solutions.
+1. [`nvim`](https://github.com/Rubix982/nvim) — My personal Neovim configuration.
+2. [`diary`](https://github.com/Rubix982/diary) — Personal learnings and re-usable knowledge notes.
+3. [`CodeToolBox`](https://github.com/Rubix982/CodeToolbox) — Handy scripts and productivity utilities.
+4. [`LangLib`](https://github.com/Rubix982/LangLib) — Competitive programming language utility repo.
+5. [`kali-linux-ctf`](https://github.com/Rubix982/kali-linux-ctf) — Vagrant + Kali setup for security challenges.
+6. [`LeetCode`](https://github.com/Rubix982/LeetCode) — My solutions to Leetcode problems.
+
+</details>
 
 <!---
 # Rubix982_V2021_July Below
