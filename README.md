@@ -1,10 +1,12 @@
-# About Me
+# Rubix982
+
+## About Me
 
 I'm a backend and infrastructure engineer learning my way through **cloud, security, and DevOps** — with a growing interest in how AI fits into all of it.
 
-This GitHub is where I try things out, experiment with ideas, and take notes on what I learn. Nothing here is final — just projects in progress, tools I’m playing with, and thoughts I’m writing down to get better at my craft.
+This GitHub is where I try things out, experiment with ideas, and take notes on what I learn. Nothing here is final — just projects in progress, tools I'm playing with, and thoughts I'm writing down to get better at my craft. There are learning notes, and proof-of-concept tools that reflect my curiosity across systems, security, and AI infrastructure. Many of these are early-stage — some are complete, some are seeds for future research.
 
-Lately, I’ve been exploring:
+Lately, I've been exploring:
 
 - Building small tools in Go and Rust
 - Working with orchestration systems like Temporal
@@ -12,6 +14,27 @@ Lately, I’ve been exploring:
 - Writing utilities to make things more observable, testable, and explainable
 
 That's all. Just trying to stay curious and consistent.
+
+## Research Alignment
+
+I maintain a basic concept project repository at [**open-concept-lab**](https://github.com/Rubix982/open-concept-lab) across security, AI, and systems that aim to show:
+
+- ✅ My hands-on understanding of low-level mechanics
+- 🧠 My ability to document, reason, and iterate publicly
+- 📎 My interest in bridging theory with practical tooling
+
+Specifically, I wanted to more closely align myself with research over:
+
+- Applied AI infrastructure and security
+- Systems and tooling for research reproducibility
+- Open-source DevSecOps and observability
+
+## My Profile Is About ...
+
+- 🔐 Projects focused on **DevSecOps, observability, and security automation**
+- 🧠 Tools that explore **AI + system design tradeoffs**, especially around reliability and compliance
+- 🧪 Research-inspired concepts like **reproducible evaluation**, **secure AI deployment**, and **pipeline introspection**
+- 📚 Thought experiments and **problem-driven brainstorming** — from protocol-level ideas to practical CLI tools
 
 ## Currently
 
@@ -27,80 +50,41 @@ My work spans:
 
 ## Table of Contents
 
-- [About Me](#about-me)
+- [Rubix982](#rubix982)
+  - [About Me](#about-me)
+  - [Research Alignment](#research-alignment)
+  - [My Profile Is About ...](#my-profile-is-about-)
   - [Currently](#currently)
   - [Table of Contents](#table-of-contents)
   - [Security Projects](#security-projects)
   - [Ideas \& Misc Tools](#ideas--misc-tools)
   - [Brainstorming Only](#brainstorming-only)
     - [FocusFeed](#focusfeed)
-      - [Problems It Solves](#problems-it-solves)
-      - [Key Features](#key-features)
     - [PromptSnare](#promptsnare)
-      - [Problems It Solves](#problems-it-solves-1)
-      - [Key Features](#key-features-1)
     - [InferGuard](#inferguard)
-      - [Problems It Solves](#problems-it-solves-2)
-      - [Key Features](#key-features-2)
     - [PoisonDetect](#poisondetect)
-      - [Problems It Solves](#problems-it-solves-3)
-      - [Key Features](#key-features-3)
     - [AIComplianceBot](#aicompliancebot)
-      - [Problems It Solves](#problems-it-solves-4)
-      - [Key Features](#key-features-4)
     - [ModelDeployer](#modeldeployer)
-      - [Problems It Solves](#problems-it-solves-5)
-      - [Key Features](#key-features-5)
     - [LLMHealth](#llmhealth)
-      - [Problems It Solves](#problems-it-solves-6)
-      - [Key Features](#key-features-6)
     - [AccessHawk](#accesshawk)
-      - [Problems It Solves](#problems-it-solves-7)
-      - [Key Features](#key-features-7)
     - [AirGapLLM](#airgapllm)
-      - [Problems It Solves](#problems-it-solves-8)
-      - [Key Features](#key-features-8)
     - [ExplainTrail](#explaintrail)
-      - [Problems It Solves](#problems-it-solves-9)
-      - [Key Features](#key-features-9)
     - [ModelAudit](#modelaudit)
-      - [Problems It Solves](#problems-it-solves-10)
-      - [Why It Hurts](#why-it-hurts)
     - [InferLoadBalancer](#inferloadbalancer)
-      - [Problems It Solves](#problems-it-solves-11)
-      - [Why It Hurts](#why-it-hurts-1)
     - [LLMTripwire](#llmtripwire)
-      - [Problems It Solves](#problems-it-solves-12)
-      - [Why It Hurts](#why-it-hurts-2)
     - [BatchLLM](#batchllm)
-      - [Problems It Solves](#problems-it-solves-13)
-      - [Why It Hurts](#why-it-hurts-3)
     - [ModularServe](#modularserve)
-      - [Problems It Solves](#problems-it-solves-14)
-      - [Why It Hurts](#why-it-hurts-4)
     - [SecretRadar](#secretradar)
-      - [Problems It Solves](#problems-it-solves-15)
-      - [Why It Hurts](#why-it-hurts-5)
     - [CIWatchdog](#ciwatchdog)
-      - [Problems It Solves](#problems-it-solves-16)
-      - [Why It Hurts](#why-it-hurts-6)
     - [InfraMirror](#inframirror)
-      - [Problems It Solves](#problems-it-solves-17)
-      - [Why It Hurts](#why-it-hurts-7)
     - [GhostInfra](#ghostinfra)
-      - [Problems It Solves](#problems-it-solves-18)
-      - [Why It Hurts](#why-it-hurts-8)
     - [LLMOrchestrator](#llmorchestrator)
-      - [Problems It Solves](#problems-it-solves-19)
     - [LLMSigner](#llmsigner)
-      - [Problems It Solves](#problems-it-solves-20)
     - [SecureLLMTestKit](#securellmtestkit)
-      - [Problems It Solves](#problems-it-solves-21)
     - [LLMInfraLite](#llminfralite)
-      - [Problems It Solves](#problems-it-solves-22)
     - [AISecGraph](#aisecgraph)
-      - [Problems It Solves](#problems-it-solves-23)
   - [Personal \& Configs](#personal--configs)
+
 
 ---
 
@@ -383,14 +367,14 @@ An MCP-style system that connects LLMs (like ChatGPT or Claude) to your key info
 #### Problems It Solves
 
 - “Black box” behavior in enterprise AI
-- Legal/compliance challenges for explainability
+- Legal/compliance challenges for explain-ability
 - Lack of reproducibility in LLM-driven actions
 
 #### Key Features
 
 - 📚 Logs prompt, context, model, and response
 - 🔗 Metadata linking and version stamping
-- ✅ Markdown or JSON-based explainability format
+- ✅ Markdown or JSON-based explain-ability format
 
 </details>
 
