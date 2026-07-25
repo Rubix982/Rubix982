@@ -1,6 +1,6 @@
 # About Me
 
-Backend and infrastructure engineer with a focus on cloud and security. Currently working on data engineering, performance, and platform at Securiti.ai / Veeam.
+Backend and infrastructure engineer focused on cloud and security. At Securiti.ai / Veeam, I architect and build scalable data pipelines, platform infrastructure, and high-performance systems—designing secure foundations that handle sensitive data and complex distributed workloads.
 
 Outside of that, I work at the intersection of AI infrastructure and research
 tooling: building systems that make research faster and more reliable rather
