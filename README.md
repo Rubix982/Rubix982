@@ -12,5 +12,9 @@ Currently reading toward whether representational geometry predicts how far an e
 
 Send a hi at [my email](mailto:saifulislam84210@gmail.com), or message me on [LinkedIn](https://linkedin.com/in/suislam)!
 
-<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/c6c3daf4-c682-4126-b645-6a81e164cb90" />
-<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/83d18ba3-8dad-43fb-9e24-aeda6c27ac1a" />
+<img width="1728" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6c3daf4-c682-4126-b645-6a81e164cb90" />
+<img width="1728" height="1024" alt="image" src="https://github.com/user-attachments/assets/83d18ba3-8dad-43fb-9e24-aeda6c27ac1a" />
+
+Also ... I like capturing material I have seen through my life. I think it is kind of cool to maintain a past archive for the future so you can always go back and remember the times in your life. [It's called the shelf](https://rubix982.github.io/the-shelf/)! I maintain [it here](https://github.com/Rubix982/the-shelf). 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/776c1e16-b4f6-4cc0-b8ae-70cc7a5c6def" />
