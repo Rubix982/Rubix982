@@ -1,22 +1,9 @@
 # About Me
 
-Backend and infrastructure engineer focused on cloud and security.
+Backend and infrastructure engineer focused on cloud, security, and distributed systems at Securiti.ai / Veeam.
 
-At Securiti.ai / Veeam, I architect and build scalable data pipelines, platform infrastructure, and high-performance systems—designing secure foundations that handle sensitive data and complex distributed workloads.
+Outside work, I explore mechanistic interpretability: editing facts into language models is easy enough ... understanding what happens to the surrounding knowledge is considerably more interesting.
 
-In my evenings and nights, I knock things over on purpose. My own work is in mechanistic interpretability: you can edit a fact into a language model's weights — tell it the Eiffel Tower is in Rome, say — and everyone dutifully checks whether it now believes the tower is in Italy. Almost nobody checks the 1889 Paris Exposition, which is still sitting in there holding the receipt. That's the bit I'm poking at.
+I document my personal work at **[open-concept-lab](https://rubix982.github.io/open-concept-lab/)**. It includes ongoing research, side projects, personal writings, project ideas, and just overall what I have bene busy with over time.
 
-It's all written up as I go at **[open-concept-lab](https://rubix982.github.io/open-concept-lab/)**, wrong turns included, and there is no shortage of those. Nothing is peer reviewed and most of it says provisional, which is either intellectual honesty or a legal disclaimer depending on how the week went. There's also a pile of interactive pages I built to understand things: belief revision, a claim graph over 111 papers, and — for reasons that were extremely compelling at the time — a mango supply chain.
-
-Currently reading toward whether representational geometry predicts how far an edit actually spreads.
-
-Send a hi at [my email](mailto:saifulislam84210@gmail.com), or message me on [LinkedIn](https://linkedin.com/in/suislam)!
-
-| | |
-| -------- | ------- |
-| <img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/71ae7fc0-d9f6-4c18-a3c7-f3970acf2f47" /> | <img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/def39618-442c-4309-83e6-c2d414ce8d6c" /> |
-| <img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/ed177d77-ba91-4469-b8e5-edefd5222ec9" /> | <img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/41c49161-8ba4-4769-954c-08498511cea7" /> |
-
-Also ... I like capturing material I have seen through my life. I think it is kind of cool to maintain a past archive for the future so you can always go back and remember the times in your life. [It's called the shelf](https://rubix982.github.io/the-shelf/)! I maintain [it here](https://github.com/Rubix982/the-shelf). 
-
-<img width="1728" height="1117" alt="image" src="https://github.com/user-attachments/assets/6de7292a-429c-4a01-a6cc-b2ccf5f04a70" />
+Say hi at [email](mailto:saifulislam84210@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/suislam).
